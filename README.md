@@ -7,6 +7,7 @@ Sweetalert2
 Primitive UI
 
 Features Used:
-CRUD OPERATION
-Login Authentication
+
+CRUD OPERATION<br>
+Login Authentication<br>
 Local Storage
